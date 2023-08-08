@@ -47,6 +47,13 @@ this should install a Sphinx environment and build the site, putting the output 
 Welcome to my profile webiste, Students and Faculty Members of TD
 <!-- enter your target audience after the comma above -->
 
-Since you're here, you might be wondering who I am and what I will be majoring in, you will also see photos of me during TD and all my work. You will see step by step on how I completed on making a website during TD. 
+Since you're here, you might be wondering who I am and what I will be majoring in, you will also see photos of me during TD and all my work. You will see step by step on how I completed on making a website during Talent Development. 
 <!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
 
+## Design 
+
+Showing others how effiecnt my website is for it being the first time coding this. I want to show others what I will be doing this upcoming semester and how I am preparing for it by being in this CSC class. I want to show this by using photos and graphs that we have done during  this class so others can see what the power of coding can do and how effiecnt it is. This project can be used for future projects which can help me in other work.
+
+## Accessibility 
+
+I want to make the color palette and word font good enough for everyone to see as some people may not be able to see it or may have due colorblindess or bad vision. I will do this by changing my website format. 
