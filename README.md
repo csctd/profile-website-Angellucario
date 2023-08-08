@@ -47,6 +47,6 @@ this should install a Sphinx environment and build the site, putting the output 
 Welcome to my profile webiste, Students and Faculty Members of TD
 <!-- enter your target audience after the comma above -->
 
-Since you're here, you might be wondering who I am and what I will be majoring in, you will also see photos of me during TD and all my work. You will see step by step on how I completed on making a website during TD. 
+Since you're here, you might be wondering who I am and what I will be majoring in, you will also see photos of me during TD and all my work. You will see step by step on how I completed on making a website during Talent Development. 
 <!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website -->
 
