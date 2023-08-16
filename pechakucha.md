@@ -30,4 +30,41 @@
 :class-card: slide
 ![alt text](_static/img/IMG_2569.jpeg)
 ```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2181.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2182.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2199.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2204.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2263.jpeg)
+```
+
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2281.jpeg)
+```
+
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2288.jpeg)
+```
 <div>
