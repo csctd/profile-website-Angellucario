@@ -18,8 +18,16 @@
 
 ```{card}
 :class-card: slide
-![alt text](_static/img/)
+![alt text](_static/img/IMG_2359.jpeg)
 ```
 
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2507.jpeg)
+```
 
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2569.jpeg)
+```
 <div>
