@@ -1,9 +1,9 @@
-# Profile 
+# Profile
 
-A short introduction for the top of your main page
+My name is Angel Lucario and I will be majoring in Computer Science this upcoming semester. 
+I am from Central Falls, Rhode Island. One of my favorite things to do during my free time is playing soccer and basketball. 
 
 
-More content you want on your page
 
 
 
