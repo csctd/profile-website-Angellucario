@@ -67,4 +67,59 @@
 :class-card: slide
 ![alt text](_static/img/IMG_2288.jpeg)
 ```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2292.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2293.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2334.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2339.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2339.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2349.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2384.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2392.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2407.png)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2414.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2417.jpeg)
+```
 <div>
