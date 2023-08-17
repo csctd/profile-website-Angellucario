@@ -2,7 +2,7 @@
 
 <div id= "slideshow">
 
-```{include} _static/play_pause.html
+```{include} _static/buttons.html
 ```
 
 ```{card} 
@@ -16,10 +16,6 @@
 ![alt text](_static/img/71261937051__F399FDA2-2F49-47E3-9ADF-753EB52B72EB.jpeg)
 ```
 
-```{card}
-:class-card: slide
-![alt text](_static/img/IMG_2359.jpeg)
-```
 
 ```{card}
 :class-card: slide
@@ -88,15 +84,6 @@
 ![alt text](_static/img/IMG_2339.jpeg)
 ```
 
-```{card}
-:class-card: slide
-![alt text](_static/img/IMG_2339.jpeg)
-```
-
-```{card}
-:class-card: slide
-![alt text](_static/img/IMG_2349.jpeg)
-```
 
 ```{card}
 :class-card: slide
@@ -121,5 +108,15 @@
 ```{card}
 :class-card: slide
 ![alt text](_static/img/IMG_2417.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2507.jpeg)
+```
+
+```{card}
+:class-card: slide
+![alt text](_static/img/IMG_2613.jpeg)
 ```
 <div>
