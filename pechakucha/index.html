@@ -12,12 +12,12 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="pechakucha/" />
 <meta property="og:site_name" content="Site Title" />
-<meta property="og:description" content="alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text..." />
+<meta property="og:description" content="alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text" />
 <meta property="og:image:width" content="1146" />
 <meta property="og:image:height" content="600" />
 <meta property="og:image" content="/_images/social_previews/summary_pechakucha_6f9fa999.png" />
 <meta property="og:image:alt" content="alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt..." />
-<meta name="description" content="alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text..." />
+<meta name="description" content="alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text alt text" />
 <meta name="twitter:card" content="summary_large_image" />
 
     <title>My Pechakucha Slideshow &#8212; Site Title</title>
@@ -368,9 +368,9 @@ document.write(`
 <div id= "slideshow">
 <!-- a container for the buttons -->
 <div class="controls">
-<!-- the btn,  btn-dark, and btn-info classes come from Bootstrap-->
-<input class='btn btn-dark' id="pause" type="button" value="Pause" onclick="pauseSlideShow()" />
-<input class='btn btn-info' id="play" type="button" value="Present" onclick="playSlideShow()" />
+    <!-- the btn,  btn-dark, and btn-info classes come from Bootstrap-->
+<input class='btn btn-dark' id="pageview" type="button" value="X" onclick="closeFullscreen()"/>
+<input class='btn btn-info' id="presentation" type="button" value="Present" onclick="openFullscreen()"/>
 <!-- the fucntions called by buttons are defined in layout.html -->
 </div>
 <div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
@@ -381,11 +381,6 @@ document.write(`
 <div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
 <div class="sd-card-body docutils">
 <p class="sd-card-text"><img alt="alt text" src="../_images/71261937051__F399FDA2-2F49-47E3-9ADF-753EB52B72EB.jpeg" /></p>
-</div>
-</div>
-<div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
-<div class="sd-card-body docutils">
-<p class="sd-card-text"><img alt="alt text" src="../_images/IMG_2359.jpeg" /></p>
 </div>
 </div>
 <div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
@@ -455,16 +450,6 @@ document.write(`
 </div>
 <div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
 <div class="sd-card-body docutils">
-<p class="sd-card-text"><img alt="alt text" src="../_images/IMG_2339.jpeg" /></p>
-</div>
-</div>
-<div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
-<div class="sd-card-body docutils">
-<p class="sd-card-text"><img alt="alt text" src="../_images/IMG_2349.jpeg" /></p>
-</div>
-</div>
-<div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
-<div class="sd-card-body docutils">
 <p class="sd-card-text"><img alt="alt text" src="../_images/IMG_2384.jpeg" /></p>
 </div>
 </div>
@@ -486,6 +471,16 @@ document.write(`
 <div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
 <div class="sd-card-body docutils">
 <p class="sd-card-text"><img alt="alt text" src="../_images/IMG_2417.jpeg" /></p>
+</div>
+</div>
+<div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
+<div class="sd-card-body docutils">
+<p class="sd-card-text"><img alt="alt text" src="../_images/IMG_2507.jpeg" /></p>
+</div>
+</div>
+<div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
+<div class="sd-card-body docutils">
+<p class="sd-card-text"><img alt="alt text" src="../_images/IMG_2613.jpeg" /></p>
 </div>
 </div>
 <div>
@@ -558,7 +553,7 @@ document.write(`
     // this section is javascript, not HTML evn though it's in the HTML file
     let slideIndex = 0;
     let slides = document.getElementsByClassName("slide");
-    let slideTime = 5000;
+    let slideTime = 200000;
     // var slideInterval = setInterval(showSlides, slideTime);
     // clearInterval(slideInterval);
 
